@@ -22,7 +22,7 @@ function ToDoForm({ addTask }) {
         onChange={(e) => setTask(e.target.value)}
       />
       <button className="cssbuttons-io-button">
-      <span>Add</span>
+      <span>Thêm</span>
     </button>
     </form>
   );

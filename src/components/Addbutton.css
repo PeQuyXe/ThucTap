@@ -13,15 +13,3 @@
     letter-spacing: 0.05em;
     border-radius: 20em;
   }
-  
-  .cssbuttons-io-button svg {
-    margin-right: 4x;
-  }
-  
-  .cssbuttons-io-button:hover {
-    box-shadow: 0 0.5em 1.5em -0.5em #14a73e98;
-  }
-  
-  .cssbuttons-io-button:active {
-    box-shadow: 0 0.3em 1em -0.5em #14a73e98;
-  }
